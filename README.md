@@ -3,9 +3,9 @@
 
 <br />
        
-        1. We will replace these altered 9th grade scores in math and reading for Thomas High School with "NaNs" per their request.
-        2. We will perform out school district analysis.
-        3. Then we will explain how these altered grade changes have affected the overall analysis. 
+1. We will replace these altered 9th grade scores in math and reading for Thomas High School with "NaNs" per their request.
+2. We will perform out school district analysis.
+3. Then we will explain how these altered grade changes have affected the overall analysis. 
 
 <br />
 
@@ -15,7 +15,7 @@
 
 ![adding png for final district summary](Resources/per_school_summary_df.png)
 
-    The distrcict summary was not dramatically affected by the replacement of these altered testing scores. 
+- The distrcict summary was not dramatically affected by the replacement of these altered testing scores. 
 
 
 <br />
@@ -28,7 +28,7 @@
 ![PNG for schools by size](Resources/success_by_school_size.png)
 
 
-    The data above suggests a similar overall passing percentage for small to medium sized schools. However, large schools with between 2000-5000 students have a significant decrease in percent of students who passed overall.
+- The data above suggests a similar overall passing percentage for small to medium sized schools. However, large schools with between 2000-5000 students have a significant decrease in percent of students who passed overall.
 <br />
 <br />
 
@@ -39,7 +39,7 @@
 ![PNG for schools by spending per student](Resources/success_per_school_budget.png)
 
 
-    The highest percentage of overall students passing is associated with the schools who have the least amount of spending available per student. This suggests that there is no direct correlation between a school's spending budget per student and the overall passing percentage.
+- The highest percentage of overall students passing is associated with the schools who have the least amount of spending available per student. This suggests that there is no direct correlation between a school's spending budget per student and the overall passing percentage.
 
 <br />
 <br />
@@ -51,7 +51,7 @@
 ![PNG for schools by type](Resources/success_by_type.png)
 
 
-    The data we have analyzed suggests that Charter schools perform better than District schools in both math and reading resulting in a higher overall passing percentage.
+- The data we have analyzed suggests that Charter schools perform better than District schools in both math and reading resulting in a higher overall passing percentage.
 
 <br />
 <br />
